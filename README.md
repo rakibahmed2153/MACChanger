@@ -38,7 +38,7 @@ sudo apt install macchanger iproute2 bc -y
 Clone this repository or download the script:
 
 ```
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/rakibahmed2153/MACChanger.git
 cd MACChanger
 ```
 
